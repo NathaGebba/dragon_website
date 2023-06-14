@@ -1,0 +1,19 @@
+* {margin: 0px;}
+
+h1, p {color: #fff;}
+
+h1 {font-size: 25px;}
+
+
+.main {padding: 50px;
+background-color: #415e78; }
+.start { width: 100%; }
+
+img{width: auto;}
+
+.start img{ transition: all 1s;}
+.start img:hover {transform: rotate(90deg);}
+
+#fire {transition: all 1s;}
+#fire p {color: #ffd620;
+position: relative;}
